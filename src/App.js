@@ -1,6 +1,7 @@
 import './App.css';
 import Components from "../src/components/pagecomponents/components"
 
+
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {

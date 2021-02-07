@@ -1,4 +1,11 @@
 import React from 'react';
+import "./styles.css"
+
+const styles = {
+    card: {
+        background: "red"
+    }
+}
 
 const Hero = () => {
 	return (
