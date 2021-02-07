@@ -1,5 +1,6 @@
-import React from 'react';
+import React from 'react'
 import "./styles.css"
+
 
 const styles = {
     card: {
@@ -12,7 +13,7 @@ const Hero = () => {
 		<div className="Container Jumbotron">
 			<div className="row">
 				<div className='col-xs-12 col-sm-12 col-md-8 col-lg-8'>
-					<div className="card">
+					<div className="card" style={styles.card}>
 						<div className="card-body">
 							<h5 className="card-title">Uniquely Crafted Web Experiences</h5>
 							<h6 className="card-subtitle mb-2 text-muted">Card subtitle</h6>

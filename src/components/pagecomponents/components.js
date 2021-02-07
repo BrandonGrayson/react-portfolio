@@ -21,6 +21,7 @@ function Components () {
         <div>
             < Navbar />
             < HeroImg />
+
         </div>
     )
 }
