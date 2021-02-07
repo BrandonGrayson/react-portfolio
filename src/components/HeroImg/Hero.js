@@ -3,6 +3,9 @@ import "./styles.css"
 
 
 const styles = {
+    hero: {
+        height: "100vh"
+    },
     card: {
         background: "red"
     }
@@ -10,7 +13,7 @@ const styles = {
 
 const Hero = () => {
 	return (
-		<div className="Container Jumbotron">
+		<div className="Container Jumbotron" style={styles.hero}>
 			<div className="row">
 				<div className='col-xs-12 col-sm-12 col-md-8 col-lg-8'>
 					<div className="card" style={styles.card}>
