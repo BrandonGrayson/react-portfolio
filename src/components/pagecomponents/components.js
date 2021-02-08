@@ -1,27 +1,14 @@
 import React from "react";
 import Navbar from "../Navbar/Navbar";
 import HeroImg from "../HeroImg/Hero"
-
-
-
-// const Components = () => {
-//     render () {
-//         return (
-//             <div>
-//             <Navbar />
-//             < HeroImg />
-//             </div>
-//         )
-//     }
-    
-// }
+import Fproject from "../featured/fproject"
 
 function Components () {
     return (
         <div>
             < Navbar />
             < HeroImg />
-
+            < Fproject />
         </div>
     )
 }
