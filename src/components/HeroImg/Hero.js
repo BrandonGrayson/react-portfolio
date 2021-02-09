@@ -32,7 +32,7 @@ const Hero = () => {
 										<hr />
 										<p>
 											Thank You for visiting my Prolife. Tech is my passion, the possibilities
-											seem as limitless as the world around me. In my free time you can find me
+											are as limitless as the world around me. In my free time you can find me
 											exploring new projects and ideas. With the events of 2020, going into 2021
 											My goal is to find ways to use tech to bring people closer together.
 										</p>
@@ -42,12 +42,7 @@ const Hero = () => {
 								</div>
 							</div>
 						</div>
-
-						</div>
-
-
-
-
+					</div>
 
 					</div>
 				</div>
